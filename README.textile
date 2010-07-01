@@ -1,0 +1,5 @@
+h1. Buttons Blueprint Plugin
+
+h2. Authors
+
+Created by Kevin Hale; adapted by Olav Bjorkoy.
